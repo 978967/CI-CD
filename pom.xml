@@ -47,7 +47,7 @@
 	<distributionManagement>
     <snapshotRepository>
         <id>deployment</id>
-        <url>http://192.168.29.16:8081/repository/</url>
+        <url>https://raw.githubusercontent.com/ksrepo9/test/master/ksdemo.war</url>
     </snapshotRepository>
 </distributionManagement>
 		
